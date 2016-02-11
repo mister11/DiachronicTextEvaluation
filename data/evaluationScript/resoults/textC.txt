@@ -1,0 +1,86 @@
+lin-low
+************
+Score 0.5215
+************
+
+Precision 0
+Tried 199 out of 267
+Average years off 96
+
+Distribution of predictions:
+There are 0 predictions which are off 0 years
+There are 0 predictions which are off 20 years
+There are 132 predictions which are off 40 years
+There are 32 predictions which are off 60 years
+There are 0 predictions which are off 80 years
+There are 0 predictions which are off 100 years
+There are 1 predictions which are off 120 years
+There are 0 predictions which are off 140 years
+There are 0 predictions which are off 160 years
+There are 102 predictions which are off 180 years
+
+
+lin-upp
+************
+Score 0.606
+************
+
+Precision 0
+Tried 267 out of 267
+Average years off 84
+
+Distribution of predictions:
+There are 0 predictions which are off 0 years
+There are 0 predictions which are off 20 years
+There are 91 predictions which are off 40 years
+There are 86 predictions which are off 60 years
+There are 25 predictions which are off 80 years
+There are 0 predictions which are off 100 years
+There are 0 predictions which are off 120 years
+There are 0 predictions which are off 140 years
+There are 0 predictions which are off 160 years
+There are 65 predictions which are off 180 years
+
+
+rbf-low
+************
+Score 0.527
+************
+
+Precision 0
+Tried 197 out of 267
+Average years off 95
+
+Distribution of predictions:
+There are 0 predictions which are off 0 years
+There are 0 predictions which are off 20 years
+There are 130 predictions which are off 40 years
+There are 36 predictions which are off 60 years
+There are 0 predictions which are off 80 years
+There are 0 predictions which are off 100 years
+There are 1 predictions which are off 120 years
+There are 0 predictions which are off 140 years
+There are 0 predictions which are off 160 years
+There are 100 predictions which are off 180 years
+
+
+rbf-upp
+************
+Score 0.6092
+************
+
+Precision 0
+Tried 267 out of 267
+Average years off 83
+
+Distribution of predictions:
+There are 0 predictions which are off 0 years
+There are 0 predictions which are off 20 years
+There are 92 predictions which are off 40 years
+There are 86 predictions which are off 60 years
+There are 25 predictions which are off 80 years
+There are 0 predictions which are off 100 years
+There are 0 predictions which are off 120 years
+There are 0 predictions which are off 140 years
+There are 0 predictions which are off 160 years
+There are 64 predictions which are off 180 years

@@ -1,0 +1,85 @@
+lin-lower
+************
+Score 0.5746
+************
+
+Precision 0
+Tried 241 out of 267
+Average years off 26
+
+Distribution of predictions:
+There are 0 predictions which are off 0 years
+There are 0 predictions which are off 6 years
+There are 22 predictions which are off 12 years
+There are 62 predictions which are off 18 years
+There are 134 predictions which are off 24 years
+There are 0 predictions which are off 30 years
+There are 3 predictions which are off 36 years
+There are 16 predictions which are off 42 years
+There are 0 predictions which are off 48 years
+There are 30 predictions which are off 54 years
+
+
+lin-upper
+************
+Score 0.5121
+************
+
+Precision 0
+Tried 267 out of 267
+Average years off 28
+
+Distribution of predictions:
+There are 0 predictions which are off 0 years
+There are 0 predictions which are off 6 years
+There are 36 predictions which are off 12 years
+There are 1 predictions which are off 18 years
+There are 121 predictions which are off 24 years
+There are 60 predictions which are off 30 years
+There are 0 predictions which are off 36 years
+There are 8 predictions which are off 42 years
+There are 8 predictions which are off 48 years
+There are 33 predictions which are off 54 years
+
+rbf-lower
+************
+Score 0.5841
+************
+
+Precision 0
+Tried 242 out of 267
+Average years off 25
+
+Distribution of predictions:
+There are 0 predictions which are off 0 years
+There are 0 predictions which are off 6 years
+There are 21 predictions which are off 12 years
+There are 63 predictions which are off 18 years
+There are 140 predictions which are off 24 years
+There are 0 predictions which are off 30 years
+There are 2 predictions which are off 36 years
+There are 13 predictions which are off 42 years
+There are 0 predictions which are off 48 years
+There are 28 predictions which are off 54 years
+
+
+rbf-upper
+************
+Score 0.5125
+************
+
+Precision 0
+Tried 267 out of 267
+Average years off 28
+
+Distribution of predictions:
+There are 0 predictions which are off 0 years
+There are 0 predictions which are off 6 years
+There are 34 predictions which are off 12 years
+There are 1 predictions which are off 18 years
+There are 124 predictions which are off 24 years
+There are 60 predictions which are off 30 years
+There are 0 predictions which are off 36 years
+There are 8 predictions which are off 42 years
+There are 8 predictions which are off 48 years
+There are 32 predictions which are off 54 years
